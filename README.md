@@ -3,7 +3,7 @@ MNIST is a set of images of hand written digits paired with the actual digits in
 Given an image, my goal is to predict the digit in the image.
 First, I used a Guassian model to fit the data. I normalized the data using a constant. The constant is found using cross validation.
 After training the data, the model is used on a test set trying to predict digits given images, and the error rate was around 4%.
-Then, I used a Soft Vector Machine Model to fit the data, and the error I yield was around 10%.
+Then, I used a Soft Vector Machine Model to fit the data, and got no error at all.
 
 Files:
 
