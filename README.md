@@ -14,3 +14,5 @@ t10k-labels-idx1-ubyte.gz     test set of 10000 digits corresponding to the imag
 train-images-idx3-ubyte.gz    training set of 60000 images of hand written digits
 
 train-labels-idx1-ubyte.gz    training set of 60000 digits corresponding to the images in the training set
+
+Guassian+model+and+Support+Vector+Machin+model+of+MNIST.py    Run this code to train and test.
